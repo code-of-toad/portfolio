@@ -20,7 +20,7 @@ function Blog() {
       <div className="blog-container">
         <h1 className="blog-title">Blog & Notes</h1>
         <p className="blog-description">
-          Thoughts, insights, and learnings on statistics, computer science, and data analysis.
+          Philosophy: Meditations on human life, morality, and reality.
         </p>
 
         {posts.length === 0 ? (
